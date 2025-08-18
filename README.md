@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Belachew Haile
 
-💻 **Full-Stack Developer | IT & Electrical Engineer**  
+💻 **Full-Stack Developer | Electrical & Computer Engineer**  
 
 I’m passionate about building **scalable web apps** and exploring how technology can create meaningful impact.  
 
@@ -21,9 +21,9 @@ I’m passionate about building **scalable web apps** and exploring how technolo
 ---
 
 ## 📈 Currently Learning  
-- Advanced **Redux Toolkit Query**  
-- **3D Web Experiences** with Three.js / OGL  
-- Building **scalable backend systems**  
+- AI automation
+-  Machine learning
+
 
 ---
 
