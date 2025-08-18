@@ -15,7 +15,7 @@ I’m passionate about building **scalable web apps** and exploring how technolo
 ---
 
 ## 🚀 Projects  
-- **Pure Daily Journal** – MERN journaling app with Redux Toolkit, JWT auth, PDF export & animated backgrounds.  
+**Pure Daily Journal** – A personal journaling app that helps people reflect on their day, practice gratitude, and grow spiritually with a beautiful and interactive design.  
   
 
 ---
