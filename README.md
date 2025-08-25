@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer | Electrical & Computer Engineer**  
 
-I’m passionate about building **scalable web apps** and exploring how technology can create meaningful impact.  
+I’m passionate about building **scalable web apps** and Ai Automations .  
 
 ---
 
