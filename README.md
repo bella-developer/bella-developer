@@ -9,7 +9,7 @@ I’m passionate about building **scalable web apps** and Ai Automations .
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, CSS, Tailwind CSS, Three.js, OGL  
 - **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB Atlas, PostgreSQL, MySQL  
+- **Databases:** MongoDB Atlas, MySQL  
 - **Languages:** Python, Java, JavaScript, SQL  
 
 ---
