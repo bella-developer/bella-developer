@@ -7,8 +7,8 @@ I’m passionate about building **scalable web apps** and exploring how technolo
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** React.js, Redux Toolkit, Tailwind, Three.js, OGL  
-- **Backend:** Node.js, Express.js, JWT, REST APIs  
+- **Frontend:** React.js, CSS, Tailwind CSS, Three.js, OGL  
+- **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB Atlas, PostgreSQL, MySQL  
 - **Languages:** Python, Java, JavaScript, SQL  
 
@@ -29,7 +29,7 @@ I’m passionate about building **scalable web apps** and exploring how technolo
 
 ## 📫 Connect  
 - 📧 belackhaile@gmail.com  
-- 🐙 GitHub:  github.com/bella-developer/bella-developer/ 
+- 🐙 GitHub:  github.com/bella-developer/
 
 
 <!--
